@@ -1,4 +1,4 @@
-# 🇵🇰 Urdu → Roman Urdu Neural Machine Translation (BiLSTM Seq2Seq)
+# RomanUrdu-Transliterator
 
 A complete **Neural Machine Translation (NMT)** system that converts **Urdu text into Roman Urdu** using a **Bidirectional LSTM Encoder** and **LSTM Decoder** implemented in **PyTorch**. This project was developed as part of my **NLP course assignment** and includes preprocessing, model architecture, training pipeline, evaluation metrics, and an optional Streamlit deployment.
 
